@@ -1,0 +1,170 @@
+{
+"profile": {
+"name": "Ammar Bahadur Kunwar",
+"tagline": "UI/UX, React and Flutter Developer",
+"bio": "I design and build interfaces that feel good to use, from web apps in React to polished mobile experiences in Flutter.",
+"avatar": "/hero.png",
+"email": "ammard3v.np@gmail.com",
+"github": "https://github.com/ammard3v",
+"status": "Building with Flutter • Learning...."
+},
+"experience": [
+{
+"title": "Mobile & Frontend Developer",
+"period": "Sept 2025 – Present",
+"desc": "Designing and building production-ready mobile and web experiences with Flutter, React, and modern frontend technologies."
+},
+{
+"title": "Backend Developer Intern",
+"period": "April 2023 – July 2023",
+"org": "Butwal",
+"desc": "Developed RESTful APIs, optimized database queries, integrated message queues, and worked on backend services using Node.js."
+}
+],
+"projects": [
+{
+"title": "Vocab App",
+"stack": "Flutter, Dart, REST API",
+"desc": "A modern vocabulary-building mobile application built with Flutter, focusing on smooth interactive learning, spaced repetition mechanics, responsive layouts, and clean architecture.",
+"href": "https://github.com/ammard3v"
+},
+{
+"title": "Full-Stack E-Commerce Platform",
+"stack": "Flutter, React, Node.js, PostgreSQL",
+"desc": "A complete single-vendor e-commerce solution featuring a Flutter mobile app for shoppers, a React admin dashboard, and a Node.js REST API with JWT authentication and inventory management.",
+"href": "https://github.com/ammard3v"
+},
+{
+"title": "ISP Management App",
+"stack": "Flutter, REST APIs, PostgreSQL, MVVM",
+"desc": "A Flutter-based ISP management system engineered for customer billing, real-time bandwidth monitoring, and network node administration using MVVM pattern.",
+"href": "https://github.com/ammard3v"
+},
+{
+"title": "Nagrik App Security Disclosure",
+"stack": "Security Audit, API Analysis",
+"desc": "Discovered and responsibly disclosed critical API vulnerabilities and exposed client configurations in Nagrik App. Published analysis became the #1 trending post on Reddit (27k+ views).",
+"href": "https://github.com/ammard3v"
+},
+{
+"title": "ShareSarathi Security Research",
+"stack": "Vulnerability Assessment, API Security",
+"desc": "Conducted security analysis on ShareSarathi, discovered exposed admin documentation, and reported findings responsibly. Awarded a complimentary 1-year Sarathi tier plan by the team.",
+"href": "https://github.com/ammard3v"
+}
+],
+"skills": [
+{
+"group": "Design",
+"items": [
+"UI/UX Design",
+"Figma",
+"Wireframing",
+"Prototyping"
+]
+},
+{
+"group": "Mobile",
+"items": [
+"Flutter",
+"Dart"
+]
+},
+{
+"group": "Frontend",
+"items": [
+"React"
+]
+},
+{
+"group": "Backend",
+"items": [
+"Node.js",
+"PostgreSQL",
+"MongoDB",
+"Redis",
+"REST APIs",
+"GraphQL"
+]
+},
+{
+"group": "Tools & DevOps",
+"items": [
+"Git",
+"Docker",
+"Linux",
+"CI/CD",
+"API Security"
+]
+}
+],
+"education": [
+{
+"title": "Bachelor of Computer Application",
+"period": "2022 – 2026",
+"org": "Pokhara University, Crimson College of Technology",
+"desc": "CGPA 3.83 / 4.00 (87.13%), Dean List"
+},
+{
+"title": "Higher Secondary Education (Science)",
+"period": "2018 – 2020",
+"org": "Oxford Secondary School",
+"desc": "Physics & Mathematics, GPA 3.32"
+},
+{
+"title": "Secondary Education Examination (SEE)",
+"period": "2018",
+"org": "Tinau English Secondary School",
+"desc": "GPA 3.80"
+}
+],
+"interests": [
+{
+"label": "Coding",
+"icon": "Code"
+},
+{
+"label": "Gaming",
+"icon": "Gamepad2"
+},
+{
+"label": "Chess",
+"icon": "Award"
+},
+{
+"label": "Reading",
+"icon": "BookOpen"
+},
+{
+"label": "Coffee",
+"icon": "Coffee"
+}
+],
+"socials": [
+{
+"label": "GitHub",
+"icon": "Github",
+"href": "https://github.com/ammard3v"
+},
+{
+"label": "LinkedIn",
+"icon": "Linkedin",
+"href": "https://linkedin.com"
+},
+{
+"label": "Twitter",
+"icon": "Twitter",
+"href": "https://twitter.com"
+},
+{
+"label": "Website",
+"icon": "Globe",
+"href": "https://ammard3v.com.np"
+}
+],
+"contact": {
+"heading": "Let's connect",
+"text": "Whether you have a UI/UX project, a Flutter app idea, a frontend challenge, or an opportunity, my inbox is always open."
+},
+"footer": "© 2026 Ammar Bahadur Kunwar"
+}
